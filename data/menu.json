@@ -1,0 +1,52 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "name": "Beef Teriyaki",
+            "komposisi": "Daging sapi premium yang dimasak dengan potongan bawang bombay dan menggunakan saus teriyaki khas HokBen.",
+            "harga": 40000,
+            "kategori" : "Beef",
+            "gambar" : "BeefTeriyaki.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Beef Yakiniku",
+            "komposisi": "Daging sapi premium yang dimasak dengan potongan bawang bombay dan paprika hijau menggunakan saus yakiniku khas HokBen.",
+            "harga": 40000,
+            "kategori" : "Beef",
+            "gambar" : "BeefYakiniku.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Chicken Teriyaki",
+            "komposisi": "Daging ayam tanpa tulang yang dimasak dengan potongan bawang bombay dan saus teriyaki khas HokBen.",
+            "harga": 30000,
+            "kategori" : "Chicken",
+            "gambar" : "ChickenTeriyaki.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Chicken Yakiniku",
+            "komposisi": "Daging ayam tanpa tulang yang dimasak dengan potongan bawang bombay dan saus yakiniku khas HokBen.",
+            "harga": 29000,
+            "kategori" : "Chicken",
+            "gambar" : "ChickenYakiniku.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Chicken Karaage",
+            "komposisi": "Daging ayam berkualitas dan terpilih yang dimasak dengan teknik Deep Frying Oil sehingga menghasilkan tekstur tepung yang garing dan renyah serta bagian dalam yang empuk.",
+            "harga": 32000,
+            "kategori" : "Chicken",
+            "gambar" : "ChickenKaraage.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Chicken Katsu",
+            "komposisi": "Dada ayam tanpa tulang berlapis tepung roti dan bumbu khas HokBen yang dimasak dengan metode Deep Frying Oil sehingga renyah di luar, empuk di dalam.",
+            "harga": 30000,
+            "kategori" : "Chicken",
+            "gambar" : "ChickenKatsu.jpg"
+        }
+    ]
+}
